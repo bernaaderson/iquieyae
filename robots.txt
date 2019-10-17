@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eicaiteivo.sanjulamansingh.com/sitemap.xml
